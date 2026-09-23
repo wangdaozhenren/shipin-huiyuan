@@ -1,4 +1,4 @@
-﻿---
+---
 name: shipin-huiyuan
 slug: shipin-huiyuan
 displayName: 视频会员红包助手
